@@ -41,7 +41,7 @@ Before you begin, ensure you have the following:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/Testing-Slack-Bot-with-Jest.git
+   git clone https://github.com/kyryloqaua/Testing-Slack-Bot-with-Jest.git
    ```
 
 ### Initializing Your Project
@@ -49,7 +49,7 @@ Before you begin, ensure you have the following:
 2. Navigate to the project directory:
 
    ```shell
-   cd slack-bot-node-starter
+   cd Testing-Slack-Bot-with-Jest
    ```
 
 3. Initialize your Node.js project:
